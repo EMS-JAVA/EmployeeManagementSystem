@@ -1,4 +1,4 @@
-public class Programmers extends Employee {
+public class Programmers extends Employees {
     Scanner input = new Scanner(System.in);
 
     public Programmers(String fname, String lname, double salary, String gender, int dateOfBirth, String department) {
