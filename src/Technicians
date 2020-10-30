@@ -1,0 +1,5 @@
+public class Technicians extends Employee {
+
+    public Technicians(String fname, String lname, double salary, String gender, int dateOfBirth, String department) {
+        super(fname, lname, salary, gender, dateOfBirth, department);
+    }
