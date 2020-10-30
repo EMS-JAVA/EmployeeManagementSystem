@@ -1,0 +1,6 @@
+public class Programmers extends Employee {
+    Scanner input = new Scanner(System.in);
+
+    public Programmers(String fname, String lname, double salary, String gender, int dateOfBirth, String department) {
+        super(fname, lname, salary, gender, dateOfBirth, department);
+    }
